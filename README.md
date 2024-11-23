@@ -1,4 +1,4 @@
-# US-Census-Income-Optimization-EDA-Hypothesis-Testing-
+# US-Census Income Optimization (EDA & Hypothesis-Testing)
 
 The US Census Income Analysis project aims to explore the factors influencing income levels within the U.S. population using the Census Income dataset. By examining relationships between income levels and demographic, educational, and occupational variables, this analysis identifies key income drivers, uncovers disparities, and provides actionable insights.
 
